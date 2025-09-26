@@ -211,8 +211,3 @@
   </url>
 
 </urlset>
-    return new Response(sitemap, {
-      headers: { "content-type": "application/xml; charset=UTF-8" },
-    });
-  }
-};
