@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- トップページ（全体構造・ナビゲーション更新） -->
+  <!-- トップページ（全体構造・ナビゲーション維持） -->
   <url>
     <loc>https://www.maruyama-shika.com/</loc>
     <lastmod>2026-10-13</lastmod>
@@ -13,7 +13,7 @@
   <!-- ========================================== -->
   <url>
     <loc>https://www.maruyama-shika.com/doctor</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -57,7 +57,7 @@
   <!-- ========================================== -->
   <url>
     <loc>https://www.maruyama-shika.com/musiba</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -75,7 +75,41 @@
   </url>
 
   <!-- ========================================== -->
-  <!-- 小児歯科 子階層クラスタ -->
+  <!-- むし歯治療 子階層クラスタ（YMYL専門サイロ 5件） -->
+  <!-- ========================================== -->
+  <url>
+    <loc>https://www.maruyama-shika.com/musiba/stage</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.maruyama-shika.com/musiba/treatment</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.maruyama-shika.com/musiba/case</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.maruyama-shika.com/musiba/prevention</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.maruyama-shika.com/musiba/qa</loc>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ========================================== -->
+  <!-- 小児歯科 子階層クラスタ（6件） -->
   <!-- ========================================== -->
   <url>
     <loc>https://www.maruyama-shika.com/kodomo/importance</loc>
